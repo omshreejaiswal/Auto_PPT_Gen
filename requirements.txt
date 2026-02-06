@@ -1,0 +1,6 @@
+streamlit
+python-pptx
+groq
+openai
+anthropic
+google-generativeai
